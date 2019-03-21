@@ -320,7 +320,7 @@ exports.traffic = false;
 // {String}, optional (format: 'yyyy-MM-dd HH:mm')
 // +v4.0.0
 // Updated date
-exports.dateupdated = '2017-17-10';
+exports.dateupdated = '2019-03-21';
 
 // {Boolean}, optional (default: false)
 // +v4.1.1
